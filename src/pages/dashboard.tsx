@@ -26,7 +26,7 @@ import bg from "../assets/her2.jpg"; // your uploaded image
 import person from '../assets/person_1.jpg'
 import BottomNav from "./stickyNav";
 import BottomNav2 from "./bottomnav2";
-import SupportBot from "../components/support";
+// import SupportBot from "../components/support";
 // import { sub } from "date-fns";
 
 // import Blog from "../Home/blog";
@@ -296,7 +296,7 @@ const [showViewModal, setShowViewModal] = useState(false);
 </div>
 
 
-<SupportBot/>
+{/* <SupportBot/> */}
 
 
         {/* Main Content */}

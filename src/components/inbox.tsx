@@ -2,7 +2,7 @@ import  { useState } from "react";
 import { MailWarning, ShieldAlert, CreditCard, Info, CheckCircle } from "lucide-react";
 import BottomNav from "../pages/stickyNav";
 import BottomNav2 from "../pages/bottomnav2";
-import SupportBot from "./support";
+// import SupportBot from "./support";
 
 type Message = {
   id: number;
@@ -124,7 +124,7 @@ const InboxPage = () => {
 
       <BottomNav />
       <BottomNav2 />
-      <SupportBot />
+      {/* <SupportBot /> */}
     </>
   );
 };

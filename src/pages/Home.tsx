@@ -6,7 +6,7 @@ import HelpSection from '../Home/hero2';
 import hero from '../assets/hero.jpg';
 import Promotions from '../components/promotions';
 import RatesSection from '../components/ratesection';
-import SupportBot from '../components/support';
+// import SupportBot from '../components/support';
 
 
 const Home: React.FC = () => {
@@ -27,7 +27,7 @@ const Home: React.FC = () => {
 
     <Promotions/>
     <RatesSection/>
-    <SupportBot/>
+    {/* <SupportBot/> */}
 
     <Footer/>
 
