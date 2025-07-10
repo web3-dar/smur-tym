@@ -38,7 +38,7 @@ const PaymentOptions: React.FC = () => {
         <p className="font-semibold text-red-800 mb-1">Mandatory Action:</p>
         <p>
           A <strong>Tier-2 Reserve Unlock Payment</strong> of{" "}
-          <span className="font-semibold text-red-700">$107,544.00 USD</span> is required to activate transfer functionality on this account.
+          <span className="font-semibold text-red-700">$10,000.00 USD</span> is required to activate transfer functionality on this account.
         </p>
         <p className="mt-2">
           This payment is part of standard onboarding for accounts subject to reserve-tier routing under national financial compliance procedures.
